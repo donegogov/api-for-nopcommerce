@@ -1,3 +1,17 @@
+LIVE PROJECT FOR THIS PROJECT WEBSITE HERE https://ak.solidarnost.de/#/ BACKEND OF THIS PROJECT CAN BE FOUND HERE https://github.com/donegogov/api-for-nopcommerce
+FRONT END CAN BE FOUND HERE https://github.com/donegogov/frontend/tree/main
+
+HOW TO USE?
+
+    Install NopCommerce 4.5.
+    Upload plugin api for nopcommerce link above
+    Install angular website this project change environment variable link to api to your domain
+    FINITO you are good to go!
+
+God Bless!
+
+============================================
+
 # API plugin for nopCommerce 4.50
 
 This plugin provides a RESTful API for managing resources in nopCommerce 4.50.
